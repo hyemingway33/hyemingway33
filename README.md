@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyemingway33
 - 👀 I’m interested in Front-End & Data Anlayst
-- 🌱 I’m currently learning Pyhhon, Oracle, Java & Spring 
+- 🌱 I’m currently learning Python, Oracle, Java & Spring 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 6019hyemin@naver.com or hyeminh19@gmail.com
 
